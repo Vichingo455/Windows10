@@ -1,0 +1,1 @@
+if you have an K:\ drive, put the source code there, if not, create an virtual K:\ partition or you wont be able to edit it. Install WinRAR and extract the file (Nouveau1.res.rar). Open the source code in Rad Studio
