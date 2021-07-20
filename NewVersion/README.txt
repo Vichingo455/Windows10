@@ -1,0 +1,1 @@
+if you have an K:\ drive, put the two folders of source code there, if not, create an virtual K:\ partition or you wont be able to edit it. Install WinRAR on your PC and extract the rar file (Nouveau1.res.part1.rar). Use RAD Studio to compile this
