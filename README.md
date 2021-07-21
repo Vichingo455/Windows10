@@ -1,6 +1,8 @@
 # Windows10
 A trojan maded by the brother of Come on Windows
 
+**DISCLAIMER: I am not responsible for any damages or illegal uses from this virus**
+
 ## Compiling source code
 Just download the code and open it in Rad Studio
 
